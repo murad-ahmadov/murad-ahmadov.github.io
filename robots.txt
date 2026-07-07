@@ -1,0 +1,6 @@
+# robots.txt — invite every search engine to crawl everything
+User-agent: *
+Allow: /
+
+# Point crawlers at the sitemap
+Sitemap: https://murad-ahmadov.github.io/sitemap.xml
